@@ -1,0 +1,10 @@
+Package: KataBaku
+Type: Package
+Title: The packages of Kata Baku
+Version: 0.1.0  
+Author: Tri Sony
+Maintainer: Tri Sony <trisonysrg@gmail.com>
+Description: This the function to change the string according to KBBI.
+License: R license
+Encoding: UTF-8
+LazyData: true
